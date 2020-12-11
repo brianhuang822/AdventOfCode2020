@@ -43,5 +43,5 @@ with open('input.txt') as file:
         if all(conditions):
             valid_passport += 1
 
-    # Part 1
+    # Part 1 & 2
     print(valid_passport)
